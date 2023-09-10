@@ -1,4 +1,4 @@
-**Neural Machine Translation (NMT) from English to Marathi** : 
+**Neural Machine Translation (NMT) from English to Marathi** :     
 This GitHub repository hosts a project focused on Neural Machine Translation (NMT) from English to Marathi. NMT is a prominent application of Natural Language Processing (NLP) that leverages deep learning models to automatically translate text from one language to another.
 
 **Project Overview** : 
